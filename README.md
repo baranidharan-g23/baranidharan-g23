@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**baranidharang/baranidharang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Short glimpse about me !
+## Short glimpse about me !
 
 - 🔭 I’m currently studying at Government College of Technology, Coimbatore
 - 🌱 I’m currently learning Flutter App Development
