@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at Government College of Technology, Coimbatore
 - 🌱 I’m currently learning Flutter App Development
-- 💬 Try not asking me about Hybrid Applications ;)
+- 💬 Try not asking me about Cross-Platform Applications ;)
 - 📫 Wanna Reach me?
     - Mail: baranidharang23@gmail.com
     - Contact: 9003324290
