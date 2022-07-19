@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
 ## Short glimpse about me !
 
 - 🔭 I’m currently studying at Government College of Technology, Coimbatore
