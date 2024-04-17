@@ -11,4 +11,4 @@
     - Linkedin: https://www.linkedin.com/in/baranidharan-g-217483204
 - ⚡ Fun fact: Feeling apathetic leads to apathy overflow...
   
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=baranidharan-g23&theme=highcontrast&show_icons=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=baranidharan-g23)](https://git.io/streak-stats)
