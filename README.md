@@ -10,4 +10,5 @@
     - Contact: 9003324290
     - Linkedin: https://www.linkedin.com/in/baranidharan-g-217483204
 - ⚡ Fun fact: Feeling apathetic leads to apathy overflow...
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
