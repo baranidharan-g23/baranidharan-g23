@@ -10,7 +10,7 @@
     - Contact: 9003324290
     - Linkedin: https://www.linkedin.com/in/baranidharan-g-217483204
 - ⚡ Providing software services,
-     - Mobile applications ```bash Flutter ```
+     - Mobile applications ```Flutter ```
      - Web applications
      - Python scripts and automation
   
