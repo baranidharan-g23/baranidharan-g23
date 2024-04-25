@@ -2,9 +2,8 @@
 
 ## Short glimpse about me !
 
-- 🔭 I’m currently studying at Government College of Technology, Coimbatore
-- 🌱 Learning Flutter App Development
-- 💬 Try not asking me about Cross-Platform Applications (;
+- 🔭 Studied at Government College of Technology, Coimbatore
+- 🌱 Exploring tech arena for Full-Time Oppurtunities
 - 📫 Wanna Reach me?
     - Mail: baranidharang23@gmail.com
     - Contact: 9003324290
