@@ -6,6 +6,7 @@
 - 🌱 Exploring tech arena for Full-Time Oppurtunities
 - 📫 Wanna Reach me?
     - Mail: baranidharang23@gmail.com
+    - Professional connect mail: koalakoderz@gmail.com
     - Contact: 9003324290
     - Linkedin: https://www.linkedin.com/in/baranidharan-g-217483204
 - ⚡ Providing software services,
