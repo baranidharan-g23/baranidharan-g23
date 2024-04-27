@@ -10,8 +10,8 @@
     - Contact: 9003324290
     - Linkedin: https://www.linkedin.com/in/baranidharan-g-217483204
 - ⚡ Providing software services,
-     - Mobile applications ```Flutter ```
+     - Mobile applications ```Flutter```
      - Web applications
-     - Python scripts and automation
+     - ```Python``` scripts and automation
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=baranidharan-g23)](https://git.io/streak-stats)
